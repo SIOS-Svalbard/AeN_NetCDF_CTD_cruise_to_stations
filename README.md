@@ -1,4 +1,4 @@
-# AeN_NetCDF_cruise_to_stations
+# AeN_CTD_NetCDF_cruise_to_stations
 
 Python script to separate a NetCDF file consisting of CTD data from a whole cruise to several smaller files, divided station by station, each including a single depth profile.
 
